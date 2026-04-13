@@ -1,0 +1,10 @@
+gtts
+playsound
+faster-whisper
+sounddevice
+scipy
+numpy
+ollama
+requests
+speech_recognition
+edge_tts

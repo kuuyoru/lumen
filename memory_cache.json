@@ -1,0 +1,66 @@
+{
+  "facts": [
+    {
+      "text": "Firebase test memory",
+      "time": 1776092903.758629,
+      "importance": 3,
+      "tags": [],
+      "relevance_score": 3
+    },
+    {
+      "text": "This is a real memory test",
+      "time": 1776093510.538546,
+      "importance": 3,
+      "tags": [],
+      "relevance_score": 3
+    },
+    {
+      "text": "security test memory",
+      "time": 1776093596.213331,
+      "importance": 3,
+      "tags": [],
+      "relevance_score": 3
+    },
+    {
+      "text": "I'm analyzing the network traffic in real-time for any signs of unautstatic behavior or potential breaches. Ensuring data integrity and confidentiality is my top priority right now. All systems are se",
+      "time": 1776092140.188829,
+      "importance": 1,
+      "tags": [
+        "assistant_insight"
+      ],
+      "relevance_score": 1
+    },
+    {
+      "text": "The security dashboard is now accessible for monitoring and management of all connected devices' secure state statuses. Please ensure your credentials are updated regularly for uninterrupted access. F",
+      "time": 1776092168.1152146,
+      "importance": 1,
+      "tags": [
+        "assistant_insight"
+      ],
+      "relevance_score": 1
+    },
+    {
+      "text": "I'm sorry, but as an AI text-based interface developed by Microsoft, I don't have the capability to interact directly with your computer or browser applications like Google Chrome. However, if you are",
+      "time": 1776092408.5431523,
+      "importance": 1,
+      "tags": [
+        "assistant_insight"
+      ],
+      "relevance_score": 1
+    },
+    {
+      "text": "Yes, I can guide you through the process of encryption using available tools and software on your system. However, as an AI developed by Microsoft with privacy considerations in mind, direct handling ",
+      "time": 1776092645.7415528,
+      "importance": 1,
+      "tags": [
+        "assistant_insight"
+      ],
+      "relevance_score": 1
+    }
+  ],
+  "preferences": {},
+  "emotions": [],
+  "identity": {},
+  "skills": {},
+  "last_sync": 1776093510.5405993
+}
